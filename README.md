@@ -1,5 +1,5 @@
 # Amazon-s3-Webpage-Hosting
-Project #1: Host A Website on Amazon S3!
+Host A Website on Amazon S3!
 Part-1:
 -Create a bucket with a unique name.
 -Enable all the ACls and unblock all the permissions.
